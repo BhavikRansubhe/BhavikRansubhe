@@ -26,7 +26,6 @@
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
-    "gh-pages": "^6.1.1",
     "postcss": "latest",
     "sass": "^1.69.5",
     "tailwindcss": "latest"

@@ -27,7 +27,7 @@ function HeroSection() {
             Hello! <br />
             I’m  {' '}
             <span className=" text-blue-500">{personalData.name}</span>
-            {`, a passionate and professional programmer dedicated to making each day productive and fulfilling.`}
+            {` , a passionate and professional programmer dedicated to making each day productive and fulfilling.`}
           </h1>
 
           <div className="my-12 flex items-center gap-5">
